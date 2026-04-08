@@ -1,34 +1,42 @@
-# This is the index.md file
+# Nikita Jos
 
-**I want this text to be bolded**
+**Second Year Computer Science major**
 
-> This is a quoted text
+I am involved in Eta Kappa Nu where I am an officer part of their software team and I am part of the Academic Technology Innovation Team for UCSD ITS
 
 ```
 System.out.println("Hello, World!");
 ```
 
-### Be warned you are being tracked!!!
-This links to a really awesome site for some [Wrecked Tech](https://test.nikitajos7.site/)
+### Links to find me online
+> This is my LinkedIn, feel free to connect! [LinkedIn](https://www.linkedin.com/in/nikita-jos/)
+> 
+> This is my Github, feel free to look around through my projects [Github](https://github.com/nikitajos7)
 
-[READMEs are cool too](README.md)
+## A fun fact about me is that I have two cats
+### This is my cat Samosa
+![Samosa](mycat.png)
+### This is my cat Toothless
+![Toothless](toothless.jpeg)
 
-![This is my cat Samosa](mycat.png)
-
+Classes that I am taking this quarter:
 - CSE 153
 - ENG 100D
 - CSE 182
 - CSE 132A
 - CSE 110
 
-1. I am taking all of those classes
-2. I am not really sure why
-3. I hope the quarter goes well
+Some of my skills are: 
+1. Languages: Java, C, Python, JavaScript, C++, HTML, CSS, SQL, C#, Svelte
+2. Technologies: PostgreSQL, Postman, Docker, Spring Boot, SQLite, Jupyter Notebooks, Firebase, Django, Git, Selenium, JUnit, AWS Lambda
 
-- [x] Get back to UCSD from Spring Break
-- [x] Attend at least one lecture for all of my classes
-- [ ] Finish all my homework assignments
+Goals:
+- [ ] Learn about working with others and have a good bond with my team
+- [ ] Apply the skills I learn here into the real world
+- [x] Have fun!!!
 
-[Do you want to go back to the beginning?](#this-is-the-indexmd-file)
+[This links to the README.md](README.md)
+
+[Go back to the beginning?](#this-is-the-indexmd-file)
 
 
